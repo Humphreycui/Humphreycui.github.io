@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>博客文章标题</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>博客文章标题</h1>
+        <nav>
+            <a href="index.html">主页</a>
+            <a href="blog.html">博客</a>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <p>发布日期：2025年1月21日</p>
+            <p>作者：Humphrey Cui</p>
+            <section>
+                <h2>文章内容</h2>
+                <p>
+                    这是一个中文小文章的模板。你可以在这里添加自己的内容，比如分享学习经验、生活感悟、或学术观点。
+                    例如：
+                </p>
+                <blockquote>
+                    “优秀是一种习惯，而习惯来自于持续的努力。”
+                </blockquote>
+                <p>
+                    本文将从以下几个方面探讨：
+                </p>
+                <ol>
+                    <li>问题背景</li>
+                    <li>解决方案</li>
+                    <li>未来展望</li>
+                </ol>
+                <p>
+                    最后总结：坚持每一天的努力，你也可以创造非凡。
+                </p>
+            </section>
+        </article>
+    </main>
+    <footer>
+        <p>&copy; 2025 Humphrey Cui</p>
+    </footer>
+</body>
+</html>
